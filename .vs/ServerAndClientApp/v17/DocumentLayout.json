@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ServerAppForExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8B44A-175A-4531-916C-CA2BBC029CA2}|ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj|c:\\users\\user\\desktop\\serverappforexam\\clientapp\\clientapp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D8B44A-175A-4531-916C-CA2BBC029CA2}|ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8B44A-175A-4531-916C-CA2BBC029CA2}|ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj|c:\\users\\user\\desktop\\serverappforexam\\clientapp\\clientapp\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1D8B44A-175A-4531-916C-CA2BBC029CA2}|ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ServerAppForExam\\ClientApp\\ClientApp\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp\\ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ServerAppForExam\\ClientApp\\ClientApp\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\ClientApp\\ClientApp\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:17:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientApp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ServerAppForExam\\ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ServerAppForExam\\ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp\\ClientApp\\ClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T14:17:11.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
